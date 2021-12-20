@@ -24,5 +24,12 @@ create a "Dockerfile" in the root folder.
     touch Dockerfile
 
 
+VS CONTAINER TERMINAL
+----------------------
+
+run 'flutter doctor'
+
+	flutter doctor
+
 
 

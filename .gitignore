@@ -1,0 +1,13 @@
+workspace/planner_app/.dart_tool/
+workspace/planner_app/.idea/
+workspace/planner_app/android/
+workspace/planner_app/.dart_tool/build/
+workspace/planner_app/ios/
+workspace/planner_app/test/
+workspace/planner_app/web/
+workspace/planner_app/.metadata
+workspace/planner_app/.packages
+workspace/planner_app/analysis_options.yaml
+workspace/planner_app/planner_app.iml
+workspace/planner_app/pubspec.lock
+workspace/planner_app/pubspec.yaml
